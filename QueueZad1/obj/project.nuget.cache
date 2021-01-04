@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hku2jdzSB79/LpZmnv9Aiq2b6qN8cOv/3d4Fj7RfHt8t4u1biJHotGC7XVx7q3MHvD67D9qjuPZbCEwkjdKSgQ==",
+  "success": true,
+  "projectFilePath": "/home/kameleon/Desktop/QueueZad1/QueueZad1/QueueZad1.csproj",
+  "expectedPackageFiles": [
+    "/home/kameleon/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/kameleon/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.0/microsoft.netframework.referenceassemblies.net48.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
